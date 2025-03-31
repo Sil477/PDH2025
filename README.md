@@ -79,7 +79,7 @@ Si te trabas, hay notebooks con soluciones comentadas.
 Si prefieres ejecutarlo en tu PC:
 
 Clonar el repositorio
-git clone https://github.com/usuario/NLP-Practico.git cd NLP-Practico
+git clone https://github.com/Sil477/PDH2025.git cd PDH2025
 
 Crear un entorno virtual (opcional)
 python -m venv nlp_env source nlp_env/bin/activate # En Windows usa: nlp_env\Scripts\activate
