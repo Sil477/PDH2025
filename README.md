@@ -1,8 +1,8 @@
-PDH 2025 Práctico
+Eje de PDH 2025 - Politecnico Malvinas Argentinas
 
 📂 Descripción
 
-Este repositorio contiene notebooks prácticos para aprender Procesamiento de Lenguaje Natural (NLP) mediante ejemplos y ejercicios interactivos. Los temas incluyen representación de texto como vectores, bolsa de palabras, tokenización, eliminación de stopwords, stemming y lematización.
+ste repositorio contiene materiales y notebooks para la materia **Procesamiento del Habla** en la Tecnicatura en Análisis de Datos e Inteligencia Artificial del Politécnico Malvinas Argentinas.
 
 🌐 Acceso Rápido
 
