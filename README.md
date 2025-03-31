@@ -1,96 +1,59 @@
-# PDH2025
-Procesamiento del Habla - Tecnicatura en Análisis de Datos e Inteligencia Artificial
+PDH 2025 Práctico
 
-Materia: Procesamiento del Habla
+📂 Descripción
 
-Institución: Politécnico Malvinas Argentinas
+Este repositorio contiene notebooks prácticos para aprender Procesamiento de Lenguaje Natural (NLP) mediante ejemplos y ejercicios interactivos. Los temas incluyen representación de texto como vectores, bolsa de palabras, tokenización, eliminación de stopwords, stemming y lematización.
 
-📌 Descripción
+🌐 Acceso Rápido
 
-El estudio del Procesamiento del Lenguaje Natural (PLN) existe desde hace más de 50 años y surge del campo de la lingüística con el auge de las computadoras. Se entiende como la manipulación automática del lenguaje natural, tanto en su forma escrita como hablada.
+Cada notebook puede ejecutarse directamente en Google Colab:
 
-Dada la importancia de este tipo de datos, este repositorio se centra en técnicas para comprender, analizar y modelar el lenguaje natural. Se incluyen tanto enfoques tradicionales como basados en aprendizaje profundo, abordando tareas como clasificación de textos, análisis de sentimientos, generación de lenguaje, reconocimiento y síntesis de voz, y creación de chatbots.
+01 - Vectores
 
-📚 Contenidos
+02 - Bag of Words
 
-Introducción al Procesamiento de Lenguaje Natural
+03 - Método de Conteo
 
-Conceptos fundamentales
-Aplicaciones y relevancia
-Herramientas básicas en Python
+04 - Tokenización
 
-2. Manejo de Datasets con PyTorch
+05 - Stopwords
 
-Carga y transformación de datos
-Procesamiento de datasets para tareas de PLN
+06 - Stemming y Lemmatización
 
-3. Embeddings
+📚 Contenido
 
-Representaciones vectoriales del lenguaje
-Implementación de Word2Vec y Glove
+📝 Notebooks con ejemplos
 
-4. Inferencia del Lenguaje Natural con Mecanismos de Atención
+Cada tema incluye un notebook con código explicativo y ejemplos.
 
-Implementación de atención en modelos de PLN
-Aplicaciones a tareas de inferencia del lenguaje
+🎓 Ejercicios
 
-5. Problemas de Secuencia a Secuencia con Transformers
+Cada notebook tiene una versión de ejercicios donde se pide completar partes del código.
 
-Uso de Transformers en tareas seq2seq
+✅ Soluciones
 
-Comparación con RNNs
+Si te trabas, hay notebooks con soluciones comentadas.
 
-6. Aplicaciones de BERT
+🛠️ Instalación local
 
-Uso de BERT para clasificación de textos
+Si prefieres ejecutarlo en tu PC:
 
-Extracción de información y análisis de sentimientos
+# Clonar el repositorio
+git clone https://github.com/usuario/NLP-Practico.git
+cd NLP-Practico
 
-7. Introducción a Large Language Models
+# Crear un entorno virtual (opcional)
+python -m venv nlp_env
+source nlp_env/bin/activate  # En Windows usa: nlp_env\Scripts\activate
 
-Arquitectura y aplicaciones de modelos de lenguaje a gran escala
-
-8. Clasificación de Textos
-
-Tokenización
-Eliminación de palabras de parada
-Uso de sinónimos y antónimos
-Derivación regresiva y lematización
-Caso de uso: Filtro de spam
-
-9. Análisis de Sentimientos
-
-Conceptos y enfoques
-Análisis de sentimientos en redes sociales
-Visualización de datos de opinión
-
-10. Creación de Chatbots
-
-Chatbot basado en reglas: coincidencias en un corpus predefinido
-Chatbot con embeddings: evaluación de similitud semántica
-Chatbot con generación de respuestas (GPT)
-Implementación en Google Colab y GitHub
-
-11. Reconocimiento y Síntesis de Voz
-
-Instalación y uso de SpeechRecognition y PyAudio
-Caso práctico: Reconocimiento de voz en Python
-Caso práctico: Síntesis de voz en Python
-
-12. Combinación de Funcionalidades NLP
-
-Creación de herramientas integrales para el análisis del lenguaje
-Integración de varias técnicas en un mismo sistema
-📈 Uso del Repositorio
-
-Ejecutar en local:
-
+# Instalar dependencias
 pip install -r requirements.txt
-python chatbot.py
-Ejecutar en Google Colab:
-Archivos .ipynb listos para probar sin instalación
-Ejecutar con interfaz gráfica:
-frontend/app.py con Streamlit
 
-Este material está diseñado para facilitar el aprendizaje práctico en la materia Procesamiento del Habla dentro de la Tecnicatura en Análisis de Datos e Inteligencia Artificial del Politecnico Malvinas Argentinas. 🚀
+🎉 Contribuciones
+
+Si quieres mejorar el repo o agregar ejercicios, eres bienvenido/a. Puedes hacer un fork y enviar un pull request.
+
+📊 Repositorio en desarrollo. Se agregarán más temas próximamente.
+
+
 
