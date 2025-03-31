@@ -1,0 +1,25 @@
+INDICE
+
+1- INSTALACIÓN E INICIO EN SPACY
+2- TOKENIZACIÓN
+3- LEMATIZACIÓN
+4- RECONOCIMIENTO DE ENTIDADES
+5- PATRONES
+6- PATRONES AVAZADOS
+
+*********************************************************************************************
+Bag of Word -> Clase2-SpaCy   Ejemplo 1 (clasificación de palabras)
+                              Ejemplo 2 (tokenización)
+
+TF-IDF      -> Clase2-Spacy   Ejemplo 3 (Lematización (TF - repetición de tokens o palabras))
+                                                      (IDF - ranking de palabras)
+
+Word2Vec    -> ver en este repositorio. Carpeta 'cuentos' en: https://drive.google.com/drive/folders/1MFeQqZNxsZS-FxwMpNzvU4VDYCrcArJq?usp=sharing 
+
+GloVe
+
+<<<<<<< HEAD
+FastText
+=======
+FastText
+>>>>>>> e2fdb9d9b988bd18275c7da7d67d26513a577dc1
