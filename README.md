@@ -4,21 +4,61 @@ Eje de PDH 2025 - Politecnico Malvinas Argentinas
 
 ste repositorio contiene materiales y notebooks para la materia **Procesamiento del Habla** en la Tecnicatura en Análisis de Datos e Inteligencia Artificial del Politécnico Malvinas Argentinas.
 
-🌐 Acceso Rápido
+## Temario
 
-Cada notebook puede ejecutarse directamente en Google Colab:
+### 1. Introducción y Fundamentos de NLP
+- Introducción
+- Representación de texto con vectores
+- Bolsa de Palabras (Bag of Words)
+- Método de Conteo
+- Tokenización
+- Stop words o Palabras de Parada
+- Stemming y Lemmatization
+- Ejercicio de Tokenización en Python
 
-01 - Vectores
+### 2. Similitud de Textos y Representaciones Vectoriales
+- Similitud de Vectores
+- Método TF-IDF
+- Crear un Recomendador de Películas con TF-IDF
 
-02 - Bag of Words
+### 3. Word Embeddings y Representaciones Avanzadas
+- Neural Word Embeddings
+- Analogías con Word Embeddings en Python
+- Tus propios Embeddings Word2Vec en Python
 
-03 - Método de Conteo
+### 4. Modelos Probabilísticos (Markov)
+- Modelos de Markov
+- Suavizado y probabilidades logarítmicas
+- Clasificación de Texto con Modelos de Markov
+- Generación de Texto con Modelos de Markov
 
-04 - Tokenización
+### 5. Generación y Spinning de Contenido
+- Article Spinning
+- Implementación en Python
 
-05 - Stopwords
+### 6. Aprendizaje Automático aplicado a NLP
+- Detección de SPAM con Naive Bayes
+- Análisis de Sentimientos
+- Regresión Logística
+- Clasificación Multiclase
+- Implementaciones en Python
 
-06 - Stemming y Lemmatización
+### 7. Resúmenes Automáticos
+- Algoritmos de resumen de texto
+- Implementación con Text Rank en Python
+
+### 8. Modelado de Temas
+- Modelado de Temas con LDA
+- Clasificación de artículos en temas
+
+### 9. Aprendizaje Profundo en NLP
+- Redes Neuronales en NLP
+- TensorFlow aplicado a PLN
+- Clasificación de Texto con CNNs y RNNs
+
+### 10. NLP con Modelos Avanzados
+- Transformers y BERT
+- Introducción a Large Language Models
 
 📚 Contenido
 
