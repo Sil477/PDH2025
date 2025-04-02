@@ -1,0 +1,6 @@
+texto;etiqueta (opcional)
+"""Me encantó la película""";positivo
+"""El servicio fue terrible""";negativo
+"""La comida estaba bien""";neutral
+"""No volveré a comprar aquí""";negativo
+"""Excelente atención y rapidez""";positivo
