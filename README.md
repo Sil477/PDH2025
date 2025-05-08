@@ -26,17 +26,7 @@ ste repositorio contiene materiales y notebooks para la materia **Procesamiento 
 - Analogías con Word Embeddings en Python
 - Tus propios Embeddings Word2Vec en Python
 
-### 4. Modelos Probabilísticos (Markov)
-- Modelos de Markov
-- Suavizado y probabilidades logarítmicas
-- Clasificación de Texto con Modelos de Markov
-- Generación de Texto con Modelos de Markov
-
-### 5. Generación y Spinning de Contenido
-- Article Spinning
-- Implementación en Python
-
-### 6. Aprendizaje Automático aplicado a NLP
+### 4. Aprendizaje Automático aplicado a NLP
 - Detección de SPAM con Naive Bayes
 - Análisis de Sentimientos
 - Regresión Logística
