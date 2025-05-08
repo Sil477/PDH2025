@@ -1,0 +1,9 @@
+EL trabajo fue realizado con Google Colab, ya que me encontraba usando el entorno de Visual Studio Code y tuve algunos inconvenientes, entre ellos:
+
+**Problemas**
+1- Cuando intenté clonar el repositorio, solo se clonaba la clase 1, por lo que tuve que descargar la clase y agregarla a mi directorio.
+2- No encontré el archivo requirements.txt, por lo que instalé las dependencias que encontré en la clase en un ambiente virtual y ejecute pip freeze para crear uno, aunque viendo el notebook, habían mas librerías por instalar, por lo que se me hizo un archivo muy pesado para comprimir y adjuntar como tarea.
+3- Tuve inconvenientes para ejecutar el anteúltimo bloque de código, por lo que después de varios intentos de intentar solucionarlo, decidí realizar el trabajo en colab.
+
+**Adjuntos**
+Adjunto el notebook "Actividad_C2.ipynb" y el notebook de la clase, con el anteúltimo bloque de código corregido para ejecutar en colab.
