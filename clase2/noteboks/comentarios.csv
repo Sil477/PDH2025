@@ -1,6 +1,3 @@
-texto;etiqueta (opcional)
-"""Me encantó la película""";positivo
-"""El servicio fue terrible""";negativo
-"""La comida estaba bien""";neutral
-"""No volveré a comprar aquí""";negativo
-"""Excelente atención y rapidez""";positivo
+version https://git-lfs.github.com/spec/v1
+oid sha256:7311548844118f5972b36663824cb0d1bfdfdf99cd09dc44c89441d4ed793f74
+size 231
